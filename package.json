@@ -1,0 +1,11 @@
+{
+  "name": "link-counter",
+  "version": "1.0.0",
+  "description": "a simple web crawler for counting inner links in a website",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Shai Cioara",
+  "license": "ISC"
+}
